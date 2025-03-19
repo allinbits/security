@@ -31,8 +31,8 @@ AiB frequently engages third-party security auditors to review software in the e
 
 * AtomOne daemon: A third-party audit is currently planned.
 
-* GovGen Governance dApp: Zellic produced a [report](audits/) for their audit of this dApp on May 7, 2024 against commit 2efa134e3adab63055d2c5a66766ee1ad67f3c03. A differential review of changes since is currently planned.
+* GovGen Governance dApp: Zellic produced a [report](audits/) for their audit of this dApp on May 7, 2024 against commit 2efa134e3adab63055d2c5a66766ee1ad67f3c03. Additionally, the audit of the AtomOne Staking Portal included the latest changes of the GovGen Governance dApp through commit 6b3fd24e96a6ce54afa9a6280cee9bc08aa653ff. 
 
 * AtomOne Governance dApp: As a small fork of the audited GovGen Governance dApp, this dApp largely inherits its security. An additional third-party audit of this specific project or its underlying library once refactored is planned.
 
-* AtomOne Staking Portal: As a small fork of the audited GovGen Governance dApp, this dApp largely inherits its security. A third-party audit of this project is currently planned as part of the updated audit of the GovGen Governance dApp.
+* AtomOne Staking Portal: Zellic produced a [report](audits/) for their audit of this dApp on January 21, 2025 against commit c5969a80153959a535e6bc61905b1d990421b095.
